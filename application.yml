@@ -26,5 +26,5 @@ spring:
   rabbitmq:
     host: rabbitmq
 
-reloadConfigCron: 0 0/5 * * * *
+configCron: 0 0/5 * * * *
     
